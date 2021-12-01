@@ -2,7 +2,7 @@
 
 Esse programa **embaralha** uma lista de nomes criada no próprio [código fonte do programa](sorteios.cpp).
 
-Este programa foi desenvolvido em C++ utilizando as funções presentes na [biblioteca padrão do STL](https://pt.wikipedia.org/wiki/Standard_Template_Library), cuja documentação está disponível  [**aqui**](https://en.cppreference.com/w/cpp/algorithm).
+Este programa foi desenvolvido em C++ utilizando as funções presentes na [Biblioteca de Modelos Padrão (STL)](https://pt.wikipedia.org/wiki/Standard_Template_Library), cuja documentação está disponível  [**aqui**](https://en.cppreference.com/w/cpp/algorithm).
 
 # Funções utilizadas no programa
 
