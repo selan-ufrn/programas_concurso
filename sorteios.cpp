@@ -34,7 +34,7 @@ int main () {
     std::vector<std::string> candidatos{
         "ANDERSON MAX CIRILO DA SILVA",
         "DANIEL NOBRE PINHEIRO",
-        "ERICA ESTEVES C UNHA DE MIRANDA",
+        "ERICA ESTEVES CUNHA DE MIRANDA",
         "GABRIEL ALVES VASILJEVIC MENDES",
         "JOSÉ KLEITON EWERTON DA COSTA MARTINS",
         "LENO RODRIGUES MARTINS",
