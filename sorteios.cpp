@@ -22,7 +22,7 @@ std::string to_string(const std::vector<std::string> &candidatos){
     std::ostringstream oss;
     int id{0}; // Numeração sequencial de cada candidato.
     for(const auto& nome : candidatos)
-        oss << "\t" << std::setw(2) << ++id << ". Nome: " << nome << "\n";
+        oss << std::setw(2) << ++id << ". " << nome << "\n";
     return oss.str();
 }
 
