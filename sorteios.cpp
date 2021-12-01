@@ -72,7 +72,7 @@ int main () {
     std::shuffle(candidatos.begin(), candidatos.end(), g);
 
     // ================================================================================
-    // [2] IMPRIMIR OS CANDIDATOS EM ORDEM ALFABÉTICA.
+    // [4] IMPRIMIR OS CANDIDATOS EM ORDEM ALFABÉTICA.
     // --------------------------------------------------------------------------------
     std::cout << ">>> Lista dos candidatos DEPOIS do sorteio:\n";
     std::cout << to_string(candidatos) << "\n\n";
