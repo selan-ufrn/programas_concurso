@@ -17,7 +17,7 @@
 #include <vector>
 #include <iomanip>
 
-/// Imprime a lista de candidatos com numeração associada a ordem da listagem.
+/// Gera e retorna uma string contendo a lista de candidatos com numeração associada a ordem da listagem.
 std::string to_string(const std::vector<std::string> &candidatos){
     std::ostringstream oss;
     int id{0}; // Numeração sequencial de cada candidato.
