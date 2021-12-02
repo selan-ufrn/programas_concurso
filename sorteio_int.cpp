@@ -1,5 +1,5 @@
 /*!
- * Programa para sortear um número dentro e uma baixa pré-definida.
+ * Programa para sortear um número dentro e um intervalo pré-definido.
  *
  * @date December 2nd, 2021
  * @author Selan R. dos Santos
