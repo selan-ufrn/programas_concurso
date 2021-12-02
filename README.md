@@ -24,7 +24,7 @@ A seleção aleatória de um valor inteiro no intervalo `[min,max]`, com distrib
 
 # 3. Para compilar os programas
 
-Assumindo que existe um compilador C++ (suporte padrão `C++11`), para compilar o programa `sorteio_nomes.cpp` faça:
+Assumindo que existe um compilador C++ (suporte padrão `C++11`) para compilar o programa `sorteio_nomes.cpp` faça:
 
 ```c++
 g++ -Wall -std=c++11 sorteios_nomes.cpp -o sorteio_nomes
