@@ -22,7 +22,7 @@ A aleatoriedade do processo de embaralhamento foi feito com:
 
 A seleção aleatória de um valor inteiro no intervalo `[min,max]`, com distribuição uniforme foi feito com o gerador [`std::uniform_int_distribution`](https://en.cppreference.com/w/cpp/numeric/random/uniform_int_distribution).
 
-# Para compilar os programas
+# 3. Para compilar os programas
 
 Assumindo que existe um compilador C++ (suporte padrão `C++11`), para compilar o programa `sorteio_nomes.cpp` faça:
 
