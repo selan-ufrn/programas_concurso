@@ -27,7 +27,7 @@ int main () {
     // Gerador aleatório de núme inteiro em um intervalo, com distribuição uniforme.
     std::uniform_int_distribution<> distrib(LOW, HIGH);
 
-    // Usa `distrib` para transformar o inteiro sem sinal gerado por 'gen' em um inteor na faixa [1,6].
+    // Usa `distrib` para transformar o inteiro sem sinal gerado por 'gen' em um inteiro no intervalo [1,6].
     std::cout << ">>> Tema sorteado: " << distrib(gen) << '\n';
 
     return 0;
