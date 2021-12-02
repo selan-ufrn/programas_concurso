@@ -33,7 +33,7 @@ g++ -Wall -std=c++11 sorteios_nomes.cpp -o sorteio_nomes
 Esse comando vai gerar um executável denominado de `sorteio_nomes`. Para executar o programa utilize o comando abaixo no terminal:
 
 ```c++
-$ ./sorteios
+$ ./sorteio_nomes
 ```
 
 Similarment, para compilar o prorgama `sorteio_int.cpp` faça:

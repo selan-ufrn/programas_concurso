@@ -4,9 +4,10 @@
  * @date December 1st, 2021
  * @author Selan R. dos Santos
  * @email <selan.santos@ufrn.br>
+ * @file sorteio_nomes.cpp
  *
  * Para compilar digite esse comando no terminal:
- *      g++ -Wall -std=c++11 sorteios.cpp -o sortreios
+ *      g++ -Wall -std=c++11 sorteio_nomes.cpp -o sorteio_nomes
  */
 
 #include <sstream>

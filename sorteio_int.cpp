@@ -25,10 +25,10 @@ int main () {
     std::mt19937 gen(rd());
     // Fonte: https://en.cppreference.com/w/cpp/numeric/random/uniform_int_distribution
     // Gerador aleatório de núme inteiro em um intervalo, com distribuição uniforme.
-   std::uniform_int_distribution<> distrib(LOW, HIGH);
+    std::uniform_int_distribution<> distrib(LOW, HIGH);
 
-   // Usa `distrib` para transformar o inteiro sem sinal gerado por 'gen' em um inteor na faixa [1,6].
-   std::cout << ">>> Tema sorteado: " << distrib(gen) << '\n';
+    // Usa `distrib` para transformar o inteiro sem sinal gerado por 'gen' em um inteor na faixa [1,6].
+    std::cout << ">>> Tema sorteado: " << distrib(gen) << '\n';
 
     return 0;
 }
